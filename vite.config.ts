@@ -4,7 +4,7 @@ import path from 'path';
 import {defineConfig} from 'vite';
 
 export default defineConfig({
-  base: '/WALEX/',
+  base: '/WALLEX/',
   plugins: [react(), tailwindcss()],
   resolve: {
     alias: {
