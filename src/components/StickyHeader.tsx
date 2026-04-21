@@ -56,10 +56,10 @@ export default function StickyHeader({ onOpenModal }: { onOpenModal: () => void 
       >
         <div className="max-container flex items-center justify-between" style={{ padding: '0 24px' }}>
           {/* Logo */}
-          <a href="#" className="flex items-center gap-3 no-theme-transition" aria-label="WALEX Home">
+          <a href="#" className="flex items-center gap-3 no-theme-transition" aria-label="WALLEX Home">
             <img
               src="/logo.png"
-              alt="WALEX Logo"
+              alt="WALLEX Logo"
               className="w-10 h-10 rounded-xl object-cover"
               width={40}
               height={40}
@@ -69,7 +69,7 @@ export default function StickyHeader({ onOpenModal }: { onOpenModal: () => void 
                 className="flex justify-between w-full font-display font-bold text-xl"
                 style={{ color: isScrolled ? 'var(--text-primary)' : '#FFFFFF' }}
               >
-                {'WALEX'.split('').map((c, i) => (
+                {'WALLEX'.split('').map((c, i) => (
                   <span key={i}>{c}</span>
                 ))}
               </div>

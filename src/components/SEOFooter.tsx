@@ -61,7 +61,7 @@ export default function SEOFooter() {
               lineHeight: 1.7,
             }}
           >
-            Schedule your complimentary consultation and see why WALEX is
+            Schedule your complimentary consultation and see why WALLEX is
             ranked #1 in the DFW metroplex.
           </p>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
@@ -96,14 +96,14 @@ export default function SEOFooter() {
             <div className="flex items-center gap-3" style={{ marginBottom: 20 }}>
               <img
                 src="/logo.png"
-                alt="WALEX Logo"
+                alt="WALLEX Logo"
                 className="rounded-xl object-cover"
                 width={44}
                 height={44}
               />
               <div className="flex flex-col leading-none" style={{ width: 130 }}>
                 <div className="flex justify-between w-full font-display font-bold text-xl text-white">
-                  {'WALEX'.split('').map((c, i) => (
+                  {'WALLEX'.split('').map((c, i) => (
                     <span key={i}>{c}</span>
                   ))}
                 </div>
@@ -125,8 +125,8 @@ export default function SEOFooter() {
               <a href="tel:+19729045132" className="flex items-center gap-2 text-sm hover:text-white transition-colors" style={{ color: 'rgba(255,255,255,0.5)' }}>
                 <Phone className="w-4 h-4" /> (972) 904-5132
               </a>
-              <a href="mailto:hello@walexwalls.com" className="flex items-center gap-2 text-sm hover:text-white transition-colors" style={{ color: 'rgba(255,255,255,0.5)' }}>
-                <Mail className="w-4 h-4" /> hello@walexwalls.com
+              <a href="mailto:hello@wallexwalls.com" className="flex items-center gap-2 text-sm hover:text-white transition-colors" style={{ color: 'rgba(255,255,255,0.5)' }}>
+                <Mail className="w-4 h-4" /> hello@wallexwalls.com
               </a>
               <span className="flex items-center gap-2 text-sm" style={{ color: 'rgba(255,255,255,0.5)' }}>
                 <MapPin className="w-4 h-4" /> North Dallas, TX 75001
@@ -203,7 +203,7 @@ export default function SEOFooter() {
             color: 'rgba(255,255,255,0.3)',
           }}
         >
-          <p>© 2026 WALEX — The Wall Experts. All rights reserved.</p>
+          <p>© 2026 WALLEX — The Wall Experts. All rights reserved.</p>
           <div className="flex gap-6">
             <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>
             <a href="#" className="hover:text-white transition-colors">Terms of Service</a>

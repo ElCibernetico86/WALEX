@@ -27,15 +27,15 @@ const testimonials = [
   {
     name: 'David Miller',
     location: 'McKinney, TX',
-    text: 'WALEX transformed our kitchen cabinets into a factory-new finish. It saved us over $15,000 compared to a full remodel. Miguel and his team were incredibly clean, organized, and the results speak for themselves.',
+    text: 'WALLEX transformed our kitchen cabinets into a factory-new finish. It saved us over $15,000 compared to a full remodel. Miguel and his team were incredibly clean, organized, and the results speak for themselves.',
     painter: 'Miguel S.',
     rating: 5,
   },
   {
     name: 'Jennifer Walsh',
     location: 'Prosper, TX',
-    text: 'We\'ve used WALEX for three consecutive projects—interior repaint, exterior, and cabinets. Every single time, the results are pristine. Their 3-year warranty gave us total peace of mind. Can\'t recommend them enough.',
-    painter: 'Team WALEX',
+    text: 'We\'ve used WALLEX for three consecutive projects—interior repaint, exterior, and cabinets. Every single time, the results are pristine. Their 3-year warranty gave us total peace of mind. Can\'t recommend them enough.',
+    painter: 'Team WALLEX',
     rating: 5,
   },
 ];
